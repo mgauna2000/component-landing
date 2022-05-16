@@ -5,7 +5,7 @@ const ItemListContainer = () => {
   return (
     <>
       <div class="container">
-        <div class="row row-cols-1 row-cols-md-3 mt-4 g-4">
+        <div class="row row-cols-1 row-cols-md-3 my-4 g-4 grid">
           <div class="col">
             <div class="card">
               <img src="./manga1.webp" class="card-img-top" alt="..." />
@@ -46,7 +46,7 @@ const ItemListContainer = () => {
           </div>
           <div class="col">
             <div class="card">
-              <img src="./manga3.webp" class="card-img-top" alt="..." />
+              <img src="./manga4.webp" class="card-img-top" alt="..." />
               <div class="card-body">
                 <h5 class="card-title">Card title</h5>
                 <p class="card-text">
@@ -58,7 +58,7 @@ const ItemListContainer = () => {
           </div>
           <div class="col">
             <div class="card">
-              <img src="./manga3.webp" class="card-img-top" alt="..." />
+              <img src="./manga5.webp" class="card-img-top" alt="..." />
               <div class="card-body">
                 <h5 class="card-title">Card title</h5>
                 <p class="card-text">
@@ -70,7 +70,7 @@ const ItemListContainer = () => {
           </div>
           <div class="col">
             <div class="card">
-              <img src="./manga3.webp" class="card-img-top" alt="..." />
+              <img src="./manga6.webp" class="card-img-top" alt="..." />
               <div class="card-body">
                 <h5 class="card-title">Card title</h5>
                 <p class="card-text">

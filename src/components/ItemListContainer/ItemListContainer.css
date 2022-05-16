@@ -3,3 +3,13 @@
     height: 550px;
     overflow: hidden;
 }
+@media only screen and (min-width: 768px) and (max-width: 1400px) {
+    .grid {
+        display: grid;
+        grid-template-columns: repeat(2, 1fr);
+    }
+    .card {
+        width: 340px;
+        height: 480px;
+    }
+}
