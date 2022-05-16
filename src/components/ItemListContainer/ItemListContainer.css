@@ -13,3 +13,9 @@
         height: 480px;
     }
 }
+
+@media (max-width:375px) {
+    .card {
+        width: 355px;
+    }
+}
