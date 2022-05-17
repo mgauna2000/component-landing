@@ -1,7 +1,6 @@
 
 import './App.css';
 import { CardList } from './components/CardList/CardList';
-import ItemListContainer from './components/ItemListContainer/ItemListContainer';
 import { Navbar } from './components/Navbar/Navbar';
 
 function App() {
