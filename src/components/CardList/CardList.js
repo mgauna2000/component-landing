@@ -17,7 +17,7 @@ export const CardList = () => {
             price={2000}
           />
           <ItemListContainer
-            title={"Manga Akame ga Kill!"}
+            title={"Manga Akame ga Kill"}
             image={"manga3.webp"}
             price={3000}
           />
