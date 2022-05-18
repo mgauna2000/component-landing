@@ -9,32 +9,32 @@ export const CardList = () => {
           <ItemListContainer
             title={"Manga Shingeki no Kiojin"}
             image={"manga1.webp"}
-            price={2500}
+            price={9360}
           />
           <ItemListContainer
             title={"Manga Naruto Shipuden"}
             image={"manga2.webp"}
-            price={2000}
+            price={9360}
           />
           <ItemListContainer
             title={"Manga Akame ga Kill"}
             image={"manga3.webp"}
-            price={3000}
+            price={6600}
           />
           <ItemListContainer
             title={"Manga Evangelion"}
             image={"manga4.webp"}
-            price={2500}
+            price={6600}
           />
           <ItemListContainer
             title={"Manga Naruto"}
             image={"manga5.webp"}
-            price={3000}
+            price={9360}
           />
           <ItemListContainer
             title={"Manga Sailor Moon"}
             image={"manga6.webp"}
-            price={1500}
+            price={6600}
           />
         </div>
       </div>
