@@ -5,11 +5,14 @@ const ItemListContainer = ({ image, title, price }) => {
   return (
     <>
       <div className="col">
-        <div class="card">
-          <img src={`./${image}`} class="card-img-top" alt="..." />
-          <div class="card-body">
-            <h5 class="card-title">{title}</h5>
-            <p class="card-text">${price}</p>
+        <div className="card">
+          <img src={`./${image}`} className="card-img-top" alt="..." />
+          <div className="card-body">
+            <h5 className="card-title">{title}</h5>
+            <p className="card-text">${price}</p>
+            <button type="button" className="btn btn-secondary">
+              Añadir al carrito
+            </button>
           </div>
         </div>
       </div>
